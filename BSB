@@ -10,3 +10,17 @@ define scientist = Character("Ms. Frermi")
 define hosptial = Character("Hospital Receptionist")
 define n1 = Character("Nurse 1")
 define n2 = Character("Nurse 2")
+
+label start:
+    scene kai treehouse
+    scene sage car
+    scene tal house
+    scene jax house
+    scene outside treehouse
+    scene city
+    scene hospital
+    scene college
+    scene witch house
+    scene witch exp room
+    scene forest
+    return
