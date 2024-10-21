@@ -23,4 +23,4 @@ label start:
     scene witch house
     scene witch exp room
     scene forest
-    return
+return
