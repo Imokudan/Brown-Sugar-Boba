@@ -28,7 +28,7 @@ label start:
 #scene 1 - 15 Years Before, Kai's House
     scene kai treehouse
     # [All black. sage.]
-    # 1A ALL BLACK
+    # 1A ALL BLACK SAGE
     
     sage "When I was younger, I had three best friends."
 
