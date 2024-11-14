@@ -4,11 +4,11 @@
 # name of the character.
 
 define kai = Character("Kai")
-define sage = Character("Sage")
+define sage = Character("sage")
 define jax = Character("Jax")
 define tal = Character("Tal")
 define raven = Character("Raven")
-define mommy = Character("Sage's Mom")
+define mommy = Character("sage's Mom")
 define boss = Character("Kai's Employer")
 define engineer = Character("Nikolai")
 define scientist = Character("Ms. Frermi")
@@ -27,7 +27,29 @@ label start:
 
 #scene 1 - 15 Years Before, Kai's House
     scene kai treehouse
-#scene 2 - Sage's Car
+    # [All black. sage.]
+    # 1A ALL BLACK
+    
+    sage "When I was younger, I had three best friends."
+
+    sage "We were tight. Really tight."
+
+    sage "Our mothers were all best friends, so we got their permission to hang out as much as we wanted to.
+"
+    sage "Only God knows how many playdates we had. We hung out every single day after school."
+
+    sage "Our favorite spot was Kai’s house, because he had a treehouse and his moms were incredibly kind."
+
+    sage "It got harder to stay connected when we got into our high school years, because a lot of us moved away."
+
+    sage "But in those younger years? It was golden."
+
+    sage "And it turned out that we had more in common than we thought."
+
+    sage "But I’ll let you see what happened for yourself."
+
+
+#scene 2 - sage's Car
     scene sage car
 #scene 3 - Tal's House
     scene tal house
@@ -46,7 +68,6 @@ label start:
 #scene 10 - Witch
     scene witch exp room
 #scene 11 - Witch's House
-    scene forest
 #scene 12 - Witch's Experimentation Room
 #scene 13 - Forest
 #scene 14 - Witch's House
