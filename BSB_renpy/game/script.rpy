@@ -4,11 +4,11 @@
 # name of the character.
 
 define kai = Character("Kai")
-define sage = Character("sage")
+define sage = Character("Sage")
 define jax = Character("Jax")
 define tal = Character("Tal")
 define raven = Character("Raven")
-define mommy = Character("sage's Mom")
+define mommy = Character("Sage's Mom")
 define boss = Character("Kai's Employer")
 define engineer = Character("Nikolai")
 define scientist = Character("Ms. Frermi")
@@ -26,7 +26,7 @@ label start:
     # images directory to show it.
 
 #scene 1 - 15 Years Before, Kai's House
-    scene kai treehouse
+    scene bg kai treehouse
 
     # [All black. sage.]
     # 1A ALL BLACK SAGE
@@ -142,13 +142,13 @@ label start:
 
     kai "What's going on? Wait, Jax. We have at least two more hours before you need to go home, what are you talking about?"
 
-    Sage "…"
+    sage "…"
 
-    Sage "You guys are so dumb. Here, I have something too."
+    sage "You guys are so dumb. Here, I have something too."
 
-    Sage "brings the tiny gecko to her face and nudges it with the tip of her nose. Suddenly she sees into its mind, the steady pulse of its heartbeat."
+    sage "brings the tiny gecko to her face and nudges it with the tip of her nose. Suddenly she sees into its mind, the steady pulse of its heartbeat."
 
-    Sage "It's good to see you."
+    sage "It's good to see you."
 
     "The gecko stops trying to run away, and it seems to automatically cheer up, making a noise that seems almost pleased."
 
@@ -231,9 +231,6 @@ label start:
     "The four of them shake on it."
 
     "After that day, the secret brought them together like an invisible thread. It was something cool that made them all feel special and, for years, their promise held true."
-
-
-
 
 #scene 2 - sage's Car
     scene sage car
