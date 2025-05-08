@@ -8,7 +8,7 @@ define sage = Character("Sage")
 define jax = Character("Jax")
 define tal = Character("Tal")
 define raven = Character("Raven")
-define mommy = Character("Sage's Mom")
+define mom = Character("Sage's Mom")
 define boss = Character("Kai's Employer")
 define engineer = Character("Nikolai")
 define scientist = Character("Ms. Frermi")
@@ -234,6 +234,186 @@ label start:
 
 #scene 2 - sage's Car
     scene sage car
+
+    #Inside a small apartment. Sage.
+
+    "Sage groans and settles into a chair, opening the newspaper."
+
+    sage "Here we go again."
+
+    sage "God, it’s too early for this."
+
+    sage "But I should probably get a gauge of what’s happening in the world before I head to work."
+
+    #Image of one page of the newspaper, filling practically the whole page. It has the headline “NEW MAGICAL BOTS DEVELOPED BY NIKOLAI ZHAMONOV—IS THIS THE END OF LIFE AS WE KNOW IT?”
+
+    sage "Huh. Interesting."
+
+    sage "There’s been a lot of talk about how dangerous new technology can be…"
+
+    sage "The talk’s been around for forever, though. Never thought it might actually come to fruition."
+
+    "She flips the page."
+    
+    #Image of next page of the newspaper with the headline “LOCAL MAN ARRESTED FOR STRANGLING A GOOSE”
+
+    sage "I’ll pretend I didn’t see that one."
+ 
+    "She flips the page."
+
+    #Image of the next page with fashion and outfits. Or something that’s easier to draw idk.
+
+    "She flips past the next few pages."
+
+    "Boring, boring, boring…"
+
+    #Image of a newspaper with an old picture of Kai with the header “MAN FOUND WITH ELECTRICAL SHOCKS ON HIS BODY”. The photo is just an amalgamation of vague colors and it’s not clear yet
+
+    "She stops flipping the page."
+
+    sage "Wait…"
+
+    "She looks closer."
+    #Zoomed in image of Kai
+
+    sage "Is that—"
+
+    # A phone call rings.
+
+    "The call is from her mother."
+
+    "She picks up."
+
+    sage "Hello?"
+
+    mom "Hey, Sage."
+
+    "Something in her voice sounds hesitant."
+
+    sage "…Yeah?"
+
+    mom "Okay, there’s been some news."
+
+    mom "(God, I wish I could talk to you in person right now.)"
+
+Mom: But there’s been a development. 
+
+Narrator: Suddenly, dread creeps up her throat. 
+
+Narrator: She picks up the newspaper again, raising it to read it—
+
+Mom: Do you remember your childhood friends? The ones you always went to the treehouse with?
+
+Narrator: Sage can’t seem to open her mouth to talk. She feels frozen in place.
+
+Mom: Kai is dead.
+
+Narrator: —and she sees the photo.
+
+[Zoom in to the newspaper. Image of Kai smiling.]
+
+Mom: I’m so sorry.
+
+Mom: I know that—
+
+Narrator: Sage hangs up.
+
+Narrator: Anger builds and bubbles in her.
+
+Sage: “Sorry”?
+
+Sage: What the hell would “sorry” do now?
+
+Sage: It wouldn’t fucking save him, that’s for sure.
+
+Sage: My best friend for the first thirteen years of my life. He was there for more than half my existence.
+
+Narrator: She closed her eyes.
+
+Narrator: The world around her suddenly seemed too loud and unwieldy, and she wanted to rip the newspaper to shreds. She hated the photo of Kai and all of his happiness, his stupid grin and the way she will never see it again.
+
+[Choice: “Read the rest of the newspaper” and “Go into action”]
+
+[If “Read the rest of the newspaper”:]
+
+Narrator: She skims the rest of the newspaper.
+
+Narrator: “Twenty-one year old Kai Elsher died on May 24th. He had a peaceful death in the hospital, being tended to by a team of medical professionals. His medical costs were covered by his parents and an anonymous patron.”
+
+Narrator: “He came to the hospital with electrical shocks spotting his entire body, unconscious. He never got to wake up.”
+
+Sage: Electricity? 
+
+Sage: But how?
+
+Sage: I haven’t heard about it being used in ages.
+
+Sage: Once magic replaced it, nobody saw a use for it anymore.
+
+Narrator: She continues reading.
+
+Narrator: “So, how did an outdated source of energy injure him in his last moments? This is a question experts are still pondering.”
+
+Narrator: “Locals have been theorizing how he could’ve died.”
+
+Narrator: “Sixty-two year old Paul Goodman says, ‘It’s one of those goddamn gangs. I’ve seen so much increased criminal activity around here. Just last Tuesday, I got robbed! I bet one of those wicked crooks are experimenting with electricity now.’”
+
+Narrator: “Another local agrees, saying—”
+
+Narrator: She closes the newspaper. 
+
+Sage: …What? 
+
+Sage: They’re making conspiracy theories on his death?
+
+Sage: They don’t even know anything about him. They’ve never seen him in person, or heard him rant about types of worms in second grade. Nothing.
+
+Sage: They don’t know about the treehouse.
+
+Sage: Nothing! Absolutely nothing!
+
+Narrator: Vaguely, Sage realizes that she’s shaking. She takes a breath, trying to calm herself down.
+
+[If “Go into action”:]
+
+Sage: And I…need to do something.
+
+Sage: I need to act.
+
+Sage: The police didn’t even know the way he died. 
+
+Sage: When was the last time I saw Kai?
+
+Sage: Or Jax or Tal? 
+
+Sage: …
+
+Sage: We have a group chat, but I don’t remember the last time I talked to them. 
+
+Narrator: The realization hits her like a ton of bricks.
+
+Sage: …God.
+
+[Return to the menu with choices. Have to choose the other choice before continuing.]
+
+[Options merge here]
+
+Sage: And my friends…
+
+Narrator: A sense of urgency hit her.
+
+Sage: Oh my god, I need to see them. Now.
+
+Sage: Even if it’s just making sure they’re still alive, I need to go. Just for today.
+
+Sage: I’ll call in sick for work. I know I wrote their addresses down in a notebook somewhere; I just need to hope they haven’t moved houses since high school.
+
+Narrator: Her eyes started getting watery, but she quickly wiped them away, sniffling. It didn’t matter what she felt at the moment.
+
+Sage: I can’t let Tal and Jax do this alone. I have to…be there for them. 
+
+
+
 #scene 3 - Tal's House
     scene tal house
 #scene 4 - Jax's House
