@@ -274,7 +274,7 @@ label start:
     sage "Wait…"
 
     "She looks closer."
-    #Zoomed in image of Kai
+    # Zoomed in image of Kai
 
     sage "Is that—"
 
@@ -296,41 +296,41 @@ label start:
 
     mom "(God, I wish I could talk to you in person right now.)"
 
-Mom: But there’s been a development. 
+    mom "But there’s been a development." 
 
-Narrator: Suddenly, dread creeps up her throat. 
+    "Suddenly, dread creeps up her throat." 
 
-Narrator: She picks up the newspaper again, raising it to read it—
+    "She picks up the newspaper again, raising it to read it—"
 
-Mom: Do you remember your childhood friends? The ones you always went to the treehouse with?
+    mom "Do you remember your childhood friends? The ones you always went to the treehouse with?"
 
-Narrator: Sage can’t seem to open her mouth to talk. She feels frozen in place.
+    "Sage can’t seem to open her mouth to talk. She feels frozen in place."
 
-Mom: Kai is dead.
+    mom "Kai is dead."
 
-Narrator: —and she sees the photo.
+    "—and she sees the photo."
 
-[Zoom in to the newspaper. Image of Kai smiling.]
+    # Zoom in to the newspaper. Image of Kai smiling.
 
-Mom: I’m so sorry.
+    mom "I’m so sorry."
 
-Mom: I know that—
+    mom "I know that—"
 
-Narrator: Sage hangs up.
+    "Sage hangs up."
 
-Narrator: Anger builds and bubbles in her.
+    "Anger builds and bubbles in her."
 
-Sage: “Sorry”?
+    sage "'Sorry'?"
 
-Sage: What the hell would “sorry” do now?
+    sage "What the hell would 'sorry' do now?"
 
-Sage: It wouldn’t fucking save him, that’s for sure.
+    sage "It wouldn’t fucking save him, that’s for sure."
 
-Sage: My best friend for the first thirteen years of my life. He was there for more than half my existence.
+    sage "My best friend for the first thirteen years of my life. He was there for more than half my existence."
 
-Narrator: She closed her eyes.
+    "She closed her eyes."
 
-Narrator: The world around her suddenly seemed too loud and unwieldy, and she wanted to rip the newspaper to shreds. She hated the photo of Kai and all of his happiness, his stupid grin and the way she will never see it again.
+    "The world around her suddenly seemed too loud and unwieldy, and she wanted to rip the newspaper to shreds. She hated the photo of Kai and all of his happiness, his stupid grin and the way she will never see it again."
 
 [Choice: “Read the rest of the newspaper” and “Go into action”]
 
